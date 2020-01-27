@@ -2,6 +2,7 @@
 
 Apache Maven 是 apache 下的一个用于项目构建和依赖管理的项目管理工具。它的官网是：<https://maven.apache.org/>。
 
+
 pom.xml 文件是 Maven 的主要配置文件，配置项目的 `groupId`、`artifactId`、`version` 等 Maven 项目必要信息；配置 Maven 项目使用的远程仓库；定义 Maven 项目打包形式；定义 Maven 项目的依赖关系等。
 
 ## 安装配置
